@@ -1,0 +1,1 @@
+Ryan Anklam is a Senior UI Engineer at Netflix where is working on reinventing TV and continually improving the  Netflix user experience. He has been developing for the web since JavaScript was mainly used for mouseover images and crude form validation. Ryan is also a passionate open source advocate and contributor.
