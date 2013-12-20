@@ -1,0 +1,22 @@
+{
+  "name": "doge-bio",
+  "version": "dogefinity.4",
+  "description": "wow",
+  "main": "bio.md",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "doge",
+    "url": "doge://dogehub.pet/bittersweetdoge/doge-bio.doge"
+  },
+  "keywords": [
+    "doge",
+    "wow",
+    "internets",
+    "movieplace",
+    "webnets"
+  ],
+  "author": "doge anklam",
+  "license": "plz petting me"
+}
