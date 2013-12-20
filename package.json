@@ -7,7 +7,7 @@
     "test": "mocha tests"
   },
   "repository": {
-    "type": "git",
+    "type": "doge",
     "url": "doge://dogehub.pet/bittersweetdoge/doge-bio.doge"
   },
   "keywords": [
